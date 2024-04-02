@@ -1,2 +1,0 @@
-Título (tag h2) - Texto com x caracteres
-Texto (tag p) - Texto com x caracteres
