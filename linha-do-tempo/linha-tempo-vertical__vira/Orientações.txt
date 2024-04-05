@@ -1,5 +1,9 @@
 Informações importantes para serem seguidas:
-Imagens - Dimensão de 392px/528px
-Título - Título com 40 caracteres
-Texto - Texto com 60 caracteres
+Imagens - Dimensão de 230px/308px
+Legenda - Legenda com 55 caracteres
+Ano/Título - Ano/Título com 60 caracteres
+
+Verso do card:
+Título - Título com 60 caracteres
+Texto - Textto com 280 caracteres
 ___________________________________________________________________________________
