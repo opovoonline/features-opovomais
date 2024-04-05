@@ -1,5 +1,5 @@
 Informações importantes para serem seguidas:
-Imagens - Dimensão de 392px/528px
-Título - Título com 40 caracteres
-Texto - Texto com 60 caracteres
+Imagens(Até 5 imagens) - Dimensão de 594px/460px
+Título - Título com 78 caracteres
+Texto - Texto com 145 caracteres
 ___________________________________________________________________________________
