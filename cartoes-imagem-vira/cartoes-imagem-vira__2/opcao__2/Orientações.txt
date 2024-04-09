@@ -3,3 +3,12 @@ Imagens - Dimensão de 493px/554px
 Título - Título com 60 caracteres
 Texto - Texto com 180 caracteres
 ___________________________________________________________________________________
+
+Nova implementação: Nessa nova feature de rotação com 2 cartões, você consegue alterar a cor de fundo e texto 
+do cartão na parte inversa. Para alterar a cor hexadecimal, procure as variaveis no HTML: 
+1. style="background-color: #EFEFEF" - Alteração da cor de fundo do cartão na parte inversa
+2. style="color: #333333" - Alteração da cor de texto, seja título ou texto. 
+
+______________________________________________________________________________________
+
+Para visualizar e encontrar o melhor contraste de cores para os cartões, acesse o site: https://coolors.co/contrast-checker/112a46-acc8e5
