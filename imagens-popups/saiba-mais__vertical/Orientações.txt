@@ -1,3 +1,17 @@
 Informações importantes para serem seguidas:
 Imagens - Dimensão de 390px/585px
 ___________________________________________________________________________________
+
+OBS: Se for necessário utilizar essa mesma feature (código) mais de uma vez, ter mais de um card com popup, é preciso fazer as seguines alterações no código:
+
+Feature 1 (card 1):
+data-card="popup-vertical-1"
+data-popup="popup-vertical-1"
+
+Feature 2 (card 2):
+data-card="popup-vertical-2"
+data-popup="popup-vertical-2"
+
+Explicações mais detalhadas no PDF disponível na pasta: /PDFS
+
+
