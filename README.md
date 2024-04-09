@@ -1,5 +1,5 @@
 # Features O POVO MAIS
-Novas funcionalidades para deixar sua reportagem ainda mais interativa para o úsuario. Aproveitem!
+Novas funcionalidades para deixar sua reportagem ainda mais interativa para o usuário. Aproveitem!
 
 # Sugestões de sites para fazer edição de código: 
 1. Js Fiddle - https://jsfiddle.net
