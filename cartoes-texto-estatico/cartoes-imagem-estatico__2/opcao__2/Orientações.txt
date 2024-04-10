@@ -1,3 +1,4 @@
 Informações importantes para serem seguidas:
-Texto - Texto com 60 caracteres
+Texto - Texto com 360 caracteres
+Título - Título com 60 caracteres
 ________________________________________________________________
