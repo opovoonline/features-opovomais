@@ -10,5 +10,5 @@ Novas funcionalidades para deixar sua reportagem ainda mais interativa para o us
 # Para visualizar e encontrar o melhor contraste de cores: 
 1. https://coolors.co/contrast-checker/112a46-acc8e5
 
-# Em caso de dúvidas:
+# Atenção:
 Em caso de dúvidas sobre a utilização das funcionalidades, acionar a Brenda Câmara - Gerente de Produto 
