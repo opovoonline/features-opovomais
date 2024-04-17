@@ -1,3 +1,11 @@
+<!-- IMAGEM OP+ -->
+<div class="image-op+">
+    <figure>
+        <img src="https://github.com/opovoonline/features-opovomais/assets/31142215/0b4371dd-63c4-4091-a774-0604b2adc727" alt="Imagem do OP+">
+    </figure>
+</div>
+<!-- IMAGEM OP+ -->
+
 # Features O POVO MAIS
 Novas funcionalidades para deixar sua reportagem ainda mais interativa para o usuário. Aproveitem!
 
