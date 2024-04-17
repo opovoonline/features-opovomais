@@ -7,5 +7,8 @@ Novas funcionalidades para deixar sua reportagem ainda mais interativa para o us
 3. Jsitor - https://jsitor.com
 4. Playcode - https://playcode.io/html
 
+# Para visualizar e encontrar o melhor contraste de cores: 
+1. https://coolors.co/contrast-checker/112a46-acc8e5
+
 # Suporte:
 Em caso de dúvidas sobre a utilização das funcionalidades, acionar a Brenda Câmara - Gerente de Produto 
